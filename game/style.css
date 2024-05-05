@@ -1,0 +1,54 @@
+body{
+   padding: 50px; 
+}
+.container{
+    max-width: 800px;
+    margin:0 auto;
+    padding: 50px;
+    box-shadow: rgba(0, 8, 1, 0.2) 0px 7px 29px 0px;
+    background-color: rgb(132, 3, 125); 
+}
+.lc{
+    margin:0 auto;
+    padding: auto;
+    border: auto;
+    box-shadow: rgba(0, 8, 1, 0.2) 0px 7px 29px 0px;
+    background-color: rgb(158, 98, 3);
+    
+    align-items: center;
+    
+}
+.division{
+    width:25%;
+    height:100px;
+    float:left;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: auto; 
+}
+.page_container{
+    max-width: 1000px;
+    margin:0 auto;
+    padding: 100px;
+    box-shadow: #03030333 0px 7px 29px 0px;
+    background-color: hsl(139, 96%, 49%);  
+}
+.form-group{
+    margin-bottom: 30px;
+}
+@font-face {
+    font-family: psc;
+    src: url(patchwork_stitchlings/Patchwork_Stitchlings_Color.ttf) format(truetype);
+}
+h2{
+    font-family:psc;
+    color: white;
+}
+@font-face {
+    font-family: ps;
+    src: url(patchwork_stitchlings/Patchwork_Stitchlings.ttf) format(truetype);
+}
+h3{
+    font-family: ps;
+}
+
